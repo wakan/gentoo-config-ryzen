@@ -1,4 +1,0 @@
-net-libs/webkit-gtk make-j10-l10.conf
-dev-qt/qtwebengine make-j10-l10.conf
-www-client/chromium chromium.conf
-media-sound/alsa-tools o2-arch-native.conf
