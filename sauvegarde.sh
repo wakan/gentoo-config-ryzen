@@ -89,5 +89,5 @@ fi
 
 
 git add *
-git commit -m "Mise à jour de la configutaion de Gentoo le $jour à $heure"
+git commit -am "Mise à jour de la configutaion de Gentoo le $jour à $heure"
 git push origin master
