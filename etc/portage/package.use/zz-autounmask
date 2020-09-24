@@ -95,8 +95,15 @@
 # required by app-misc/neofetch-6.0.0::gentoo[X]
 # required by neofetch (argument)
 >=www-client/w3m-0.5.3_p20180125 imlib
-# required by net-print/cups-filters-1.27.4::gentoo[postscript]
-# required by net-print/cups-2.3.3-r1::gentoo
-# required by www-client/vivaldi-snapshot-3.4.2038.4_p1::gentoo
-# required by vivaldi-snapshot (argument)
->=app-text/ghostscript-gpl-9.52-r1 cups
+# required by dev-lang/ruby-2.6.6-r2::gentoo
+# required by virtual/ruby-ssl-11::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/racc-1.4.14::gentoo[ruby_targets_ruby26]
+# required by dev-ruby/rdoc-6.1.2::gentoo[ruby_targets_ruby26]
+# required by dev-lang/ruby-2.5.8::gentoo[rdoc]
+# required by dev-ruby/rubygems-3.0.3::gentoo[ruby_targets_ruby25]
+# required by virtual/rubygems-15::gentoo[ruby_targets_ruby26]
+# required by net-libs/webkit-gtk-2.28.4::gentoo
+# required by gnome-extra/sushi-3.34.0::gentoo
+# required by gnome-base/nautilus-3.36.3::gentoo[previewer]
+# required by app-text/evince-3.36.7::gentoo[nautilus]
+>=dev-ruby/bundler-2.1.4 ruby_targets_ruby26

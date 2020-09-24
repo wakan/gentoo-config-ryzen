@@ -2,6 +2,7 @@ app-admin/sysklogd
 app-dicts/gnome-dictionary
 app-editors/vim
 app-portage/cpuid2cpuflags
+app-portage/eix
 app-portage/portage-utils
 dev-util/strace
 gnome-base/gdm
@@ -25,6 +26,6 @@ sys-process/htop
 sys-process/lsof
 www-client/epiphany
 www-client/links
-www-client/vivaldi-snapshot
+www-client/vivaldi
 x11-apps/mesa-progs
 x11-base/xorg-drivers
