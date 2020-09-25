@@ -107,3 +107,6 @@
 # required by gnome-base/nautilus-3.36.3::gentoo[previewer]
 # required by app-text/evince-3.36.7::gentoo[nautilus]
 >=dev-ruby/bundler-2.1.4 ruby_targets_ruby26
+# required by x11-misc/barrier-2.3.3::gentoo[gui]
+# required by barrier (argument)
+>=net-dns/avahi-0.8-r2 mdnsresponder-compat
